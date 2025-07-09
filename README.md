@@ -1,1 +1,2 @@
-# TimeShiftBasedEstimation
+# Project Overview
+This project was carried out during the course Advanced Ultrasound Imaging at the Technical University of Denmark (DTU). The aim is to implement a time-shift-based velocity estimation technique for synthetic aperture (SA) ultrasound flow imaging. The method uses cross-correlation between beamformed frames to estimate lateral flow velocities of scatterers in both simulated and acquired RF data.
